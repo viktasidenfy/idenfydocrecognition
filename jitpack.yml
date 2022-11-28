@@ -1,3 +1,3 @@
 install: 
-  - FILE="-Dfile=com.idenfy.idenfyRecognition-1.1.4.aar"
-  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyRecognition -Dversion=1.1.4 -DpomFile=com.idenfy.idenfyRecognition-1.1.4.pom
+  - FILE="-Dfile=com.idenfy.idenfyRecognition-1.1.6.aar"
+  - mvn install:install-file $FILE -DgroupId=idenfy -DartifactId=idenfyRecognition -Dversion=1.1.6 -DpomFile=com.idenfy.idenfyRecognition-1.1.6.pom
