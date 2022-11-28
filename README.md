@@ -1,2 +1,2 @@
-# idenfyRecognition
-Android iDenfy Recognition SDK
+# idenfyDocRecognition
+Android iDenfy Document Recognition SDK
