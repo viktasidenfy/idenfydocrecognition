@@ -1,2 +1,2 @@
-# idenfysdk
-Android iDenfy SDK
+# idenfyRecognition
+Android iDenfy Recognition SDK
